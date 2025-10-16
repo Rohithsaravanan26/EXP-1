@@ -57,10 +57,15 @@ b.  KCL:
 
 <img width="1321" height="755" alt="Screenshot 2025-09-11 104024" src="https://github.com/user-attachments/assets/f6a92622-ca64-49da-bca8-eb1e44d0c9a5" />
 
+![IMG-20251016-WA0008](https://github.com/user-attachments/assets/dff09f1a-155a-48eb-b2bb-31caf245065a)
 
+![IMG-20251016-WA0009](https://github.com/user-attachments/assets/f9dee411-0b98-495b-bc50-f649a67b4570)
 
-
+![IMG-20251016-WA0011](https://github.com/user-attachments/assets/0aed145f-8f90-4d8f-a2bc-0d8bced95ab0)
+ ![IMG-20251016-WA0012](https://github.com/user-attachments/assets/21a67bf4-54df-4bc7-a78b-9a2d628c602f)
+![IMG-20251016-WA0010](https://github.com/user-attachments/assets/007d5e71-d14a-4e1f-8bb1-efe9584088f8)
 
 RESULT:
 
-Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
+Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are
+proved.
